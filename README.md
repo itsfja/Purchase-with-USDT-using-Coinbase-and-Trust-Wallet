@@ -5,6 +5,8 @@ A step-by-step guide, written for November 2026 versions of the Coinbase and Tru
 > [!CAUTION]
 > **This guide is not financial, legal or tax advice. It is a how-to for people who have already decided, with their eyes open, to make these transfers.**
 
+**New to this?** Start with the [simple picture guide](guide.md): one idea per page, with pictures. Then come back here for the full details. This README is the definitive version.
+
 ## READ THIS FIRST: the risks
 
 **Stop and read all of this before you touch any app.** This guide shows you *how* to make the transfers. It does not make them safe, and nothing can make them reversible. If any point below makes you uneasy, that unease is the correct reaction. Close the apps and walk away.
