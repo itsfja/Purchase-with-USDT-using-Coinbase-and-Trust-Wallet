@@ -95,13 +95,15 @@ If a coin goes on the wrong road, it can be lost.
 
 ## 8. Three journeys
 
-You will make three journeys, one after another:
+You will make three journeys, one after another. Together they are **six sends**:
 
-1. **Journey 1:** a little SOL, from the shop to your purse. This is practice.
-2. **Journey 2:** a little ETH, from the shop to your purse. More practice.
-3. **Journey 3:** USDT, to the person you are paying. This is the real one.
+1. **Journey 1:** a little SOL, from the shop to your purse. This is practice. *(Send 1)*
+2. **Journey 2:** a little ETH, from the shop to your purse. More practice. *(Send 2)*
+3. **Journey 3:** USDT. This is the real one, and it has four sends:
+    - a little bit to your purse *(send 3)*, then the rest *(send 4)*;
+    - a little bit to the person you are paying *(send 5)*, then the rest *(send 6)*.
 
-After each journey you **stop and wait** until it has arrived.
+After **every** send you **stop and wait** until it has arrived. Count them as you go: one, two, three, four, five, six.
 
 ---
 
