@@ -105,7 +105,22 @@ After each journey you **stop and wait** until it has arrived.
 
 ---
 
-## 9. Buying the practice coins
+## 9. What you need before you start
+
+Before you begin, check you have all of these:
+
+- A **Coinbase** account, all checked and ready, with your local money (Sterling, or your local currency) already in it.
+- A **Trust Wallet** purse, already made, with your twelve secret words written on paper and kept safe.
+- Your **own phone**, with both apps from the proper app store.
+- A **quiet hour**, at home, with nobody watching or telling you what to tap.
+- A **person to pay** who you already know and trust, who takes USDT on the Solana road or the Ethereum road.
+- A little **extra money** for the practice coins and the fuel.
+
+If anything on this list is missing, **stop**. Come back when it is ready.
+
+---
+
+## 10. Buying the practice coins
 
 ![Two phones in the Coinbase shop, buying SOL and ETH](images/guide/08-buy-coins.svg)
 
@@ -117,7 +132,7 @@ Now you have two small coins, worth about $5 each.
 
 ---
 
-## 10. Journey 1: copy your address
+## 11. Journey 1: copy your address
 
 ![The Trust Wallet phone with a Copy button, and a paper showing the address](images/guide/09-copy-address.svg)
 
@@ -129,7 +144,7 @@ Never type an address by hand. One wrong letter and the coin is lost.
 
 ---
 
-## 11. First four, last four
+## 12. First four, last four
 
 ![An address with the first four and last four letters circled by magnifying glasses](images/guide/10-check-ends.svg)
 
@@ -143,7 +158,7 @@ Do this every time you paste an address. Every single time.
 
 ---
 
-## 12. Send it
+## 13. Send it
 
 ![Three Coinbase phone screens: Max, Preview, Send now](images/guide/11-send.svg)
 
@@ -155,7 +170,7 @@ Paste your address. Check the first four and last four. Tap **Max**, then **Prev
 
 ---
 
-## 13. Stop and wait
+## 14. Stop and wait
 
 ![A clock and a cup of tea](images/guide/12-wait.svg)
 
@@ -167,7 +182,7 @@ Do not start the next journey until it has arrived. If it takes more than an hou
 
 ---
 
-## 14. Journey 2: ETH
+## 15. Journey 2: ETH
 
 ![The Trust Wallet phone and an address starting with 0x](images/guide/13-eth.svg)
 
@@ -181,7 +196,7 @@ Then stop and wait again, until the ETH has arrived in your purse.
 
 ---
 
-## 15. Fuel for the journey
+## 16. Fuel for the journey
 
 ![A red car marked USDT next to a fuel can marked SOL or ETH](images/guide/14-petrol.svg)
 
@@ -195,7 +210,7 @@ If your fuel runs out, buy a little more SOL or ETH in the shop. Send it to your
 
 ---
 
-## 16. Journey 3: ask two questions
+## 17. Journey 3: ask two questions
 
 ![Two people talking: one asks which road and which address, the other answers in writing](images/guide/15-ask.svg)
 
@@ -208,7 +223,7 @@ Ask them to write the address down for you as text, not as a picture.
 
 ---
 
-## 17. Does it match?
+## 18. Does it match?
 
 ![A table: addresses starting with T are Tron, 0x is Ethereum, anything else is Solana](images/guide/16-match.svg)
 
@@ -222,7 +237,7 @@ Does the road they named match the address? If it does not match, **do not send.
 
 ---
 
-## 18. A little bit first
+## 19. A little bit first
 
 ![A small coin travelling to a happy person who says Got it, while a big pile of coins waits](images/guide/17-test-first.svg)
 
@@ -240,7 +255,7 @@ Only then send the rest: the Full Monty. Ask them to say "Got it!" again.
 
 ---
 
-## 19. Wrong road?
+## 20. Wrong road?
 
 ![A red STOP sign saying BASE](images/guide/18-base-mistake.svg)
 
@@ -250,7 +265,7 @@ If someone you do not know offers to get your coins back for a fee, **they are a
 
 ---
 
-## 20. The rules
+## 21. The rules
 
 ![A list of the rules, each with a green tick](images/guide/19-rules.svg)
 

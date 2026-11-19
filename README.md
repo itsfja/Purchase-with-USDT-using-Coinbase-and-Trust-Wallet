@@ -37,6 +37,31 @@ A step-by-step guide, written for November 2026 versions of the Coinbase and Tru
 - **Spending or swapping crypto can be a taxable event.** In the UK, disposing of crypto (selling, swapping or spending it) can create a Capital Gains Tax liability. Keep a record of every transaction.
 - **Your bank or Coinbase may pause or question transfers.** That's their fraud and anti-money-laundering checks doing their job. Don't try to get around them.
 
+## Assumptions
+
+This guide only works if **all** of these are true. If any one isn't, stop and sort it out first, or this guide isn't for you.
+
+**Your accounts and apps**
+
+1. **You have a Coinbase account, verified and funded.** Your identity checks are done, there is Sterling (or local currency) in your cash balance, and it has cleared, not still on hold.
+2. **You already have Trust Wallet set up.** The wallet is created, and its 12-word Secret Phrase is written on paper and stored safely offline. You have checked you can open the wallet.
+3. **2-step verification works on Coinbase**, and you can approve sends with it right now.
+4. **Both apps came from the official app store** (Apple App Store or Google Play), are up to date, and are on a phone that is yours and up to date.
+
+**You and where you are**
+
+5. **You're in the UK, or a country where Coinbase lets you buy and send SOL, ETH and USDT.** What Coinbase offers varies by country. In some countries USDT isn't available at all. Check your app before you start.
+6. **You are an adult, acting for yourself, with your own money and accounts.** No one else is logged in, telling you what to tap, or watching your screen.
+7. **You're in a private, unhurried setting.** You're on your own phone and a trusted connection (home Wi-Fi or mobile data, not public Wi-Fi). Screen-sharing and remote-access apps are closed. You've set aside at least an hour, more if Coinbase holds a send for review.
+
+**The money and the recipient**
+
+8. **You already know who you're paying and why, and you've decided to pay in USDT.** This guide shows how to send. It does not check that the recipient is genuine. That's on you (see the risks above).
+9. **The recipient accepts USDT on Ethereum or Solana**, and will give you their address in writing. Tron and Base are not covered.
+10. **You can afford the extra.** On top of the payment, you need about 10 Sterling (or local currency equivalent) for the SOL and ETH practice and fee money, plus a few dollars of network fees. Top-ups may cost more.
+11. **You're comfortable with copy and paste on your phone**, and with switching between two apps.
+12. **Your apps look roughly like they did in November 2026.** If a button has moved or been renamed, pick the closest match. If something looks very different, stop and check.
+
 ## Before you start
 
 You will make **three transactions**, one coin at a time, each followed by a pause to confirm it landed:
