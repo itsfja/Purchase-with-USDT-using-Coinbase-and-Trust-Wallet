@@ -54,13 +54,14 @@ The SOL and ETH aren't just practice: they become the fee money ("gas") that Tra
 - [ ] Trust Wallet app updated, a wallet created, and its 12-word Secret Phrase written on paper and stored offline.
 - [ ] Solana and Ethereum visible on the Trust Wallet home screen. If either is missing, use the search or Manage crypto option on the home screen to switch it on.
 
-**Five rules that make this bulletproof**
+**Six rules that make this bulletproof**
 
-1. **Copy, never type.** Take each address from Trust Wallet's Receive screen with the Copy button. Never use an address sent to you in a message, email or chat.
+1. **Copy, never type.** For your own wallet, take each address from Trust Wallet's Receive screen with the Copy button. Never use an address that someone sends you claiming it is yours. The only address you ever accept from another person is the recipient's, in Transaction 3, and it gets extra checks in Part C before anything is sent.
 2. **Match the network.** SOL goes on the **Solana** network. ETH goes on the **Ethereum** network. USDT goes on the network your recipient names, and **never Base**. A wrong network can lose the funds.
 3. **Check the ends.** After pasting into Coinbase, compare the first 4 and last 4 characters with Trust Wallet. If any differ, stop: your clipboard may have been tampered with.
 4. **Never share your 12-word phrase.** Coinbase, Trust Wallet and their support staff never ask for it. If someone else told you to make this transfer, stop and talk to someone you trust first.
 5. **Sends cannot be reversed.** That is why the three transactions go in order, smallest and safest first, with a big pause after each one.
+6. **Never pay a vendor from an exchange.** Coinbase is only for buying coins and moving them to *your own* Trust Wallet. Every payment to anyone else goes from Trust Wallet, your private wallet. Never paste a recipient's address into Coinbase.
 
 **Why not use Trust Wallet's "Deposit from exchange" button?**
 
@@ -189,7 +190,18 @@ The same eight screens as Part A. The only changes are the coin (ETH), the netwo
 
 ## Part C — Transaction 3 of 3: The real one, USDT to your recipient
 
-**TL;DR:** Get the recipient's network and address. Check they match. Buy USDT. Move it to Trust Wallet on that network (**NOT Base**). Send the recipient a small test. They confirm. Send the rest.
+**TL;DR:** Get the recipient's network and address. Check they match. Buy USDT. Move it to Trust Wallet on that network (**NOT Base**). Send the recipient a small test **from Trust Wallet**. They confirm. Send the rest.
+
+> [!IMPORTANT]
+> **Never pay the recipient straight from Coinbase. Always pay from Trust Wallet, your private wallet.**
+
+**Why pay from Trust Wallet and never from Coinbase?**
+
+- **Coinbase is the shop, not your purse.** Coins sitting in Coinbase are held by Coinbase. It can pause, question or block a payment to someone else as part of its fraud and anti-money-laundering checks, sometimes after the money has already left your balance.
+- **Your account is at risk.** Paying third parties from an exchange can get your account reviewed, restricted or closed, especially if the recipient later turns out to be connected to a scam.
+- **Refunds can go missing.** Exchanges often send from shared addresses that aren't yours. If the recipient sends anything back "to where it came from", it may never reach you.
+- **Fewer details shared.** Coinbase asks who you're sending to. Paying from your own wallet keeps your exchange account and the person you're paying apart.
+- **You stay in control.** In Trust Wallet only you hold the keys, and you decide exactly what goes, where and when.
 
 This is the money that matters, so slow is fast here. Transactions 1 and 2 were the rehearsal. Your SOL or ETH now pays the fee when you send USDT out of Trust Wallet.
 
@@ -270,11 +282,11 @@ Coinbase often puts **Base** first or labels it free. **For this whole transfer,
 5. Tap **Copy**. Note the first 4 and last 4 characters.
 6. In **Coinbase**: **Transfer** → **Send crypto** → **Tether (USDT)**.
 7. Network: the **recipient's network**. **NOT Base.**
-8. Paste, check the ends, answer the owner question (your own wallet, Trust Wallet), tap **Max**.
+8. Paste **your own Trust Wallet address**, never the recipient's. Check the ends, answer the owner question (your own wallet, Trust Wallet), tap **Max**.
 9. **Preview**: USDT, the right network (**NOT Base**), address ends, fee. Then **Send now**.
 10. **Pause** until the USDT shows in Trust Wallet on that network.
 
-**Send the test to the recipient**
+**Send the test to the recipient (from Trust Wallet, never from Coinbase)**
 
 11. In Trust Wallet, tap **USDT** (the right network) → **Send**.
 12. Paste the recipient's address. Check the first 4 and last 4 against what they sent you.
