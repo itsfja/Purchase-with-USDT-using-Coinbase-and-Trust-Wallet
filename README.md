@@ -2,34 +2,74 @@
 
 A step-by-step guide, written for November 2026 versions of the Coinbase and Trust Wallet apps.
 
+## READ THIS FIRST: the risks
+
+**Stop and read all of this before you touch any app.** This guide shows you *how* to make the transfers. It does not make them safe, and nothing can make them reversible. If any point below makes you uneasy, that unease is the correct reaction. Close the apps and walk away.
+
+**Crypto itself**
+
+- **You can lose all of it.** Crypto is high-risk and largely unregulated. Treat every pound you put in as money you can afford to lose completely.
+- **No safety net.** Crypto is not a bank deposit. The Financial Services Compensation Scheme (FSCS) does not cover it, and the Financial Ombudsman Service generally can't help you get crypto back.
+- **Every send is final.** There is no "undo", no chargeback and no fraud team that can reverse a blockchain transaction. A wrong address, a wrong network or a scammer's address means the money is gone. Permanently.
+- **Prices swing hard.** SOL and ETH can move by several per cent in an hour. The amounts in this guide will not match your screen to the penny, and that's normal.
+- **Stablecoins are not cash.** USDT aims to stay at $1, but it is a private company's token, not money in a bank. It has briefly dropped below $1 before, and its issuer can freeze USDT held at any address.
+
+**Paying someone you can't see**
+
+- **You probably can't verify who they are.** A website, a company name, a friendly voice or a WhatsApp profile proves nothing. Scammers build all of these in minutes.
+- **"Pay me in USDT" is a classic scam request.** Fake investments, fake jobs, romance scams, fake HMRC or bank officials, fake tech support, and "recovery" services that promise to get back money you've already lost all ask for USDT, precisely because it can't be clawed back.
+- **No buyer protection.** If you pay for goods or services in crypto and they never arrive, there is usually no one to complain to and no refund route. Bank-transfer fraud refunds generally don't cover crypto you send yourself from your own wallet.
+- **Pressure is the tell.** Urgency ("today only", "or your account will be closed"), secrecy ("don't tell your bank") or being coached through the steps by someone else are red flags. Stop.
+- **Address poisoning and clipboard attacks.** Scammers send tiny amounts from look-alike addresses so a fake one appears in your history, and malware can swap a copied address for theirs. That's why this guide makes you check the first 4 and last 4 characters every single time.
+
+**Holding it yourself (Trust Wallet)**
+
+- **You are the bank.** Lose your 12-word Secret Phrase, or let anyone see it, and the wallet and everything in it are gone. No one can reset it for you.
+- **Fake apps and fake support exist.** Only install Coinbase and Trust Wallet from the official app store. Real support never DMs you first and never asks for your phrase.
+
+**Tax and rules**
+
+- **Spending or swapping crypto can be a taxable event.** In the UK, disposing of crypto (selling, swapping or spending it) can create a Capital Gains Tax liability. Keep a record of every transaction.
+- **Your bank or Coinbase may pause or question transfers.** That's their fraud and anti-money-laundering checks doing their job. Don't try to get around them.
+
+**This guide is not financial, legal or tax advice.** It is a how-to for people who have already decided, with their eyes open, to make these transfers.
+
 ## Before you start
 
-You will make two separate sends from the Coinbase app to Trust Wallet: **$5 of SOL first, then a big pause to confirm it landed, then $5 of ETH.** Every address is copied from Trust Wallet's own Receive screen and pasted into Coinbase's Send crypto screen. Button names below match the apps as of November 2026; if a label differs slightly after an update, pick the closest match.
+You will make **three transactions**, one coin at a time, each followed by a pause to confirm it landed:
+
+1. **Transaction 1 of 3: about $5 of SOL** from Coinbase to Trust Wallet (Part A). This is your first test.
+2. **Transaction 2 of 3: about $5 of ETH** from Coinbase to Trust Wallet (Part B). This is your second test.
+3. **Transaction 3 of 3: USDT** to your recipient (Part C). This is the real one. It moves in stages: Coinbase to your Trust Wallet, a small test to the recipient, then the rest.
+
+The SOL and ETH aren't just practice: they become the fee money ("gas") that Transaction 3 needs. Every address is copied from Trust Wallet's own Receive screen (or, for Transaction 3, from the recipient) and pasted, never typed. Button names below match the apps as of November 2026. If a label differs slightly after an update, pick the closest match.
 
 **Have ready**
 
 - [ ] Coinbase app updated, you are logged in, and your 2-step verification (code or passkey) works.
-- [ ] Some pounds in your Coinbase cash balance. Step 0 below turns about £10 of it into SOL and ETH.
+- [ ] Some pounds in your Coinbase cash balance. Step 0 below turns about £10 of it into SOL and ETH for Transactions 1 and 2. The USDT for Transaction 3 comes later.
 - [ ] Trust Wallet app updated, a wallet created, and its 12-word Secret Phrase written on paper and stored offline.
 - [ ] Solana and Ethereum visible on the Trust Wallet home screen. If either is missing, use the search or Manage crypto option on the home screen to switch it on.
 
 **Five rules that make this bulletproof**
 
 1. **Copy, never type.** Take each address from Trust Wallet's Receive screen with the Copy button. Never use an address sent to you in a message, email or chat.
-2. **Match the network.** SOL goes on the **Solana** network. ETH goes on the **Ethereum** network. A wrong network can lose the funds.
+2. **Match the network.** SOL goes on the **Solana** network. ETH goes on the **Ethereum** network. USDT goes on the network your recipient names, and **never Base**. A wrong network can lose the funds.
 3. **Check the ends.** After pasting into Coinbase, compare the first 4 and last 4 characters with Trust Wallet. If any differ, stop: your clipboard may have been tampered with.
 4. **Never share your 12-word phrase.** Coinbase, Trust Wallet and their support staff never ask for it. If someone else told you to make this transfer, stop and talk to someone you trust first.
-5. **Sends cannot be reversed.** That is why SOL goes first as a test, and ETH waits for the big pause.
+5. **Sends cannot be reversed.** That is why the three transactions go in order, smallest and safest first, with a big pause after each one.
 
 **Why not use Trust Wallet's "Deposit from exchange" button?**
 
 Trust Wallet's Receive screen has a Deposit from exchange option. You pick Coinbase, log in to your Coinbase account from inside Trust Wallet, and it fills in the details for you. It is a real feature and avoids copy-paste mistakes. This guide does it by hand on purpose [1]:
 
-- **You see and check every detail yourself.** Address, network and fee are all on screen in Coinbase before you tap Send now. That check is the skill you need for the stablecoin later.
+- **You see and check every detail yourself.** Address, network and fee are all on screen in Coinbase before you tap Send now. That check is the skill you need for Transaction 3 (USDT).
 - **Your Coinbase login stays in the Coinbase app.** A good habit to keep: fake "connect your exchange" screens are a common way people lose their accounts.
 - **One app is in charge of the send.** If something goes wrong, Coinbase support can see the whole send. With two linked apps, each support team can point at the other.
 
 ## Step 0: Buy the SOL and ETH with your Sterling (or local currency) balance
+
+This gets the coins for Transactions 1 and 2. You'll buy the USDT later, at the start of Transaction 3.
 
 **Buy £5 of SOL and £5 of ETH.** After Coinbase's buying fee, £5 gets you roughly $5 worth of each coin. Prices move all the time, so expect it to wobble by a few cents. The network fee for each send comes out of that, so slightly under $5 of each lands in Trust Wallet.
 
@@ -54,7 +94,7 @@ Trust Wallet's Receive screen has a Deposit from exchange option. You pick Coinb
 
 If Coinbase says the crypto cannot be sent yet, the pounds were probably deposited recently and are on a short hold. The app shows when they become available.
 
-## Part A: Send $5 of SOL
+## Part A — Transaction 1 of 3: Send $5 of SOL
 
 Get your Solana address from Trust Wallet first, then send to it from Coinbase. The picture after the steps shows each screen in order. [2] [3]
 
@@ -83,9 +123,9 @@ Get your Solana address from Trust Wallet first, then send to it from Coinbase. 
 
 Simplified screen layouts, not exact copies of the apps. Three screens in Trust Wallet to copy the address, then five in Coinbase to send.
 
-## BIG PAUSE: stop here until the SOL has arrived
+## BIG PAUSE after Transaction 1: stop here until the SOL has arrived
 
-**Do not start Part B yet.** The SOL send is your test. Only move on when every box below is ticked.
+**Do not start Part B (Transaction 2) yet.** The SOL send is your first test. Only move on when every box below is ticked.
 
 - [ ] In Coinbase, **Transactions** (or the SOL asset page) shows the send as **Sent** or **Completed**, not Pending.
 - [ ] In Trust Wallet, tap **Solana** on the home screen. A new incoming amount of about $5, less the fee, is listed.
@@ -95,7 +135,7 @@ Most Solana sends arrive within a few minutes. Coinbase sometimes holds a first 
 
 **Why pause?** If the SOL arrived, you have proved the whole routine works: the apps, the copy-paste, the network choice and the address check. Part B is the same routine with ETH.
 
-## Part B: Send $5 of ETH
+## Part B — Transaction 2 of 3: Send $5 of ETH
 
 Same routine as Part A, with two differences: you pick **Ethereum** as the network, and the address starts with **0x**.
 
@@ -125,11 +165,21 @@ The same eight screens as Part A. The only changes are the coin (ETH), the netwo
 
 **Do NOT pick Base.** Coinbase may offer Base as a free or cheaper network. Ignore it [4]. Base is a separate network: your ETH would land in Trust Wallet on its own "ETH on Base" line and look missing. If it happens anyway, see **Landed on Base by mistake?** in Part C.
 
-## Part C: The real one — USDT to your recipient
+## BIG PAUSE after Transaction 2: stop here until the ETH has arrived
+
+**Do not start Part C (Transaction 3) yet.** Only move on when every box below is ticked.
+
+- [ ] In Coinbase, the ETH send shows as **Sent** or **Completed**, not Pending.
+- [ ] In Trust Wallet, tap **Ethereum** (the Ethereum line, **not** "ETH on Base"). The incoming ETH is listed.
+- [ ] Trust Wallet now holds **both** your SOL and your ETH. That's your fee money for Transaction 3.
+
+**Why pause again?** Transaction 3 is the one with real money in it. You want two clean, confirmed practice runs behind you, and fee money sitting ready, before you start it.
+
+## Part C — Transaction 3 of 3: The real one, USDT to your recipient
 
 **TL;DR:** Get the recipient's network and address. Check they match. Buy USDT. Move it to Trust Wallet on that network (**NOT Base**). Send the recipient a small test. They confirm. Send the rest.
 
-This is the money that matters, so slow is fast here. Parts A and B were the rehearsal. Your SOL or ETH now pays the fee when you send USDT out of Trust Wallet.
+This is the money that matters, so slow is fast here. Transactions 1 and 2 were the rehearsal. Your SOL or ETH now pays the fee when you send USDT out of Trust Wallet.
 
 ### Your fee money (aka "gas")
 
@@ -141,7 +191,7 @@ This is the money that matters, so slow is fast here. Parts A and B were the reh
 
 You can't pay gas in USDT. Zero ETH or SOL means your USDT is stuck until you top up. Sends *from Coinbase* are different: Coinbase takes its fee out of what you send, so gas only matters for sends *from Trust Wallet*.
 
-**How long does $5 last?** Each send from Trust Wallet costs one fee. Part C needs at least two: the test and the rest.
+**How long does $5 last?** Each send from Trust Wallet costs one fee. Transaction 3 needs at least two of them: the test and the rest.
 
 | Fee coin | Typical fee per USDT send | Roughly how many sends $5 covers |
 | --- | --- | --- |
