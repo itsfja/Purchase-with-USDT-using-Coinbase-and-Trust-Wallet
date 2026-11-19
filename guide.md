@@ -226,15 +226,17 @@ Does the road they named match the address? If it does not match, **do not send.
 
 ![A small coin travelling to a happy person who says Got it, while a big pile of coins waits](images/guide/17-test-first.svg)
 
-Buy your USDT in the Coinbase shop. Send it to your purse on the right road. **Not Base.** Wait until it arrives.
+Big amounts always go **a little bit first**. About $5. Then wait. Then the rest. That's the rule every time.
 
-Then, **from your purse**, send the person **a little bit first**. About $5 or $10.
+Buy your USDT in the Coinbase shop. Send **a little bit** to your purse on the right road. **Not Base.** Wait until you **see** it arrive. Then send the rest to your purse.
+
+Then, **from your purse**, send the person **a little bit first**. About $5.
 
 **Never pay anyone straight from the Coinbase shop.** The shop is only for buying coins and sending them to your own purse. You always pay people from your purse, because only you hold its key.
 
-Wait for them to say **"Got it!"**
+Wait for them to say **"Got it!"** in writing.
 
-Only then send the rest.
+Only then send the rest: the Full Monty. Ask them to say "Got it!" again.
 
 ---
 
@@ -258,7 +260,7 @@ If someone you do not know offers to get your coins back for a fee, **they are a
 - Check the first four and the last four.
 - Choose the right road. Never Base.
 - Pay from your purse. Never pay from the shop.
-- Send a little bit first.
+- A little bit first. Wait for "Got it!". Then the rest.
 - Stop and wait after every journey.
 
 **The End.**
