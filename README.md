@@ -2,6 +2,9 @@
 
 A step-by-step guide, written for November 2026 versions of the Coinbase and Trust Wallet apps.
 
+> [!CAUTION]
+> **This guide is not financial, legal or tax advice. It is a how-to for people who have already decided, with their eyes open, to make these transfers.**
+
 ## READ THIS FIRST: the risks
 
 **Stop and read all of this before you touch any app.** This guide shows you *how* to make the transfers. It does not make them safe, and nothing can make them reversible. If any point below makes you uneasy, that unease is the correct reaction. Close the apps and walk away.
@@ -31,8 +34,6 @@ A step-by-step guide, written for November 2026 versions of the Coinbase and Tru
 
 - **Spending or swapping crypto can be a taxable event.** In the UK, disposing of crypto (selling, swapping or spending it) can create a Capital Gains Tax liability. Keep a record of every transaction.
 - **Your bank or Coinbase may pause or question transfers.** That's their fraud and anti-money-laundering checks doing their job. Don't try to get around them.
-
-**This guide is not financial, legal or tax advice.** It is a how-to for people who have already decided, with their eyes open, to make these transfers.
 
 ## Before you start
 
@@ -66,6 +67,9 @@ Trust Wallet's Receive screen has a Deposit from exchange option. You pick Coinb
 - **You see and check every detail yourself.** Address, network and fee are all on screen in Coinbase before you tap Send now. That check is the skill you need for Transaction 3 (USDT).
 - **Your Coinbase login stays in the Coinbase app.** A good habit to keep: fake "connect your exchange" screens are a common way people lose their accounts.
 - **One app is in charge of the send.** If something goes wrong, Coinbase support can see the whole send. With two linked apps, each support team can point at the other.
+
+> [!CAUTION]
+> **This guide is not financial, legal or tax advice. It is a how-to for people who have already decided, with their eyes open, to make these transfers.**
 
 ## Step 0: Buy the SOL and ETH with your Sterling (or local currency) balance
 
@@ -135,6 +139,9 @@ Most Solana sends arrive within a few minutes. Coinbase sometimes holds a first 
 
 **Why pause?** If the SOL arrived, you have proved the whole routine works: the apps, the copy-paste, the network choice and the address check. Part B is the same routine with ETH.
 
+> [!CAUTION]
+> **This guide is not financial, legal or tax advice. It is a how-to for people who have already decided, with their eyes open, to make these transfers.**
+
 ## Part B — Transaction 2 of 3: Send $5 of ETH
 
 Same routine as Part A, with two differences: you pick **Ethereum** as the network, and the address starts with **0x**.
@@ -174,6 +181,9 @@ The same eight screens as Part A. The only changes are the coin (ETH), the netwo
 - [ ] Trust Wallet now holds **both** your SOL and your ETH. That's your fee money for Transaction 3.
 
 **Why pause again?** Transaction 3 is the one with real money in it. You want two clean, confirmed practice runs behind you, and fee money sitting ready, before you start it.
+
+> [!CAUTION]
+> **This guide is not financial, legal or tax advice. It is a how-to for people who have already decided, with their eyes open, to make these transfers.**
 
 ## Part C — Transaction 3 of 3: The real one, USDT to your recipient
 
@@ -296,6 +306,9 @@ Don't panic. **If it went to your own Trust Wallet, it's usually still yours.** 
 
 **If it went to the recipient on Base**, only they can get it back. Ask them to switch on Base in their wallet. If their address is on an exchange, they need to contact that exchange's support. Anyone who DMs you offering to "recover" it is a scammer.
 
+> [!CAUTION]
+> **This guide is not financial, legal or tax advice. It is a how-to for people who have already decided, with their eyes open, to make these transfers.**
+
 ## Troubleshooting
 
 | What you see | What to do |
@@ -321,3 +334,6 @@ Web addresses below are deliberately broken: the dot is written as `[.]` so noth
 8. GTS, Coinbase and Tron (TRC-20) USDT: `gts[.]ai/defi/how-to-transfer-usdt-from-binance-to-coinbase`
 9. MEXC News, Tron–Base bridge: `mexc[.]com/news/317506`
 10. Trust Wallet support, why your crypto isn't showing: `support.trustwallet[.]com/en/articles/717105-why-your-crypto-isn-t-showing-in-your-wallet`
+
+> [!CAUTION]
+> **This guide is not financial, legal or tax advice. It is a how-to for people who have already decided, with their eyes open, to make these transfers.**
