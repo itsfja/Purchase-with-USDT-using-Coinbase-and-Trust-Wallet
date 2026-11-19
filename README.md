@@ -11,7 +11,7 @@ A step-by-step guide, written for November 2026 versions of the Coinbase and Tru
 
 **Crypto itself**
 
-- **You can lose all of it.** Crypto is high-risk and largely unregulated. Treat every pound you put in as money you can afford to lose completely.
+- **You can lose all of it.** Crypto is high-risk and largely unregulated. Treat all the Sterling (or local currency) you put in as money you can afford to lose completely.
 - **No safety net.** Crypto is not a bank deposit. The Financial Services Compensation Scheme (FSCS) does not cover it, and the Financial Ombudsman Service generally can't help you get crypto back.
 - **Every send is final.** There is no "undo", no chargeback and no fraud team that can reverse a blockchain transaction. A wrong address, a wrong network or a scammer's address means the money is gone. Permanently.
 - **Prices swing hard.** SOL and ETH can move by several per cent in an hour. The amounts in this guide will not match your screen to the penny, and that's normal.
@@ -48,7 +48,7 @@ The SOL and ETH aren't just practice: they become the fee money ("gas") that Tra
 **Have ready**
 
 - [ ] Coinbase app updated, you are logged in, and your 2-step verification (code or passkey) works.
-- [ ] Some pounds in your Coinbase cash balance. Step 0 below turns about £10 of it into SOL and ETH for Transactions 1 and 2. The USDT for Transaction 3 comes later.
+- [ ] Some Sterling (or local currency) in your Coinbase cash balance. Step 0 below turns about 10 Sterling (or local currency equivalent) of it into SOL and ETH for Transactions 1 and 2. The USDT for Transaction 3 comes later.
 - [ ] Trust Wallet app updated, a wallet created, and its 12-word Secret Phrase written on paper and stored offline.
 - [ ] Solana and Ethereum visible on the Trust Wallet home screen. If either is missing, use the search or Manage crypto option on the home screen to switch it on.
 
@@ -75,13 +75,13 @@ Trust Wallet's Receive screen has a Deposit from exchange option. You pick Coinb
 
 This gets the coins for Transactions 1 and 2. You'll buy the USDT later, at the start of Transaction 3.
 
-**Buy £5 of SOL and £5 of ETH.** After Coinbase's buying fee, £5 gets you roughly $5 worth of each coin. Prices move all the time, so expect it to wobble by a few cents. The network fee for each send comes out of that, so slightly under $5 of each lands in Trust Wallet.
+**Buy 5 Sterling (or local currency equivalent) of SOL, and the same of ETH.** After Coinbase's buying fee, that gets you roughly $5 worth of each coin. Prices move all the time, so expect it to wobble by a few cents. The network fee for each send comes out of that, so slightly under $5 of each lands in Trust Wallet.
 
 **Buy SOL**
 
 1. Open **Coinbase**. On the Home tab, tap **Buy** (the **+** button).
 2. Search **Solana** and tap **Solana (SOL)**. Check it says SOL, not a similarly named token.
-3. Type **£5**.
+3. Type **5** in Sterling (or local currency).
 4. Check **Pay with** shows your **GBP (or local currency) balance**. If it shows a card or bank, tap it and switch to GBP (or local currency) balance.
 5. Tap **Preview buy**. The screen shows the SOL you get and the Coinbase fee.
 6. Tap **Buy now**. Wait for the confirmation, then tap **Done**.
@@ -89,14 +89,14 @@ This gets the coins for Transactions 1 and 2. You'll buy the USDT later, at the 
 **Buy ETH**
 
 7. Tap **Buy** again, search **Ethereum**, tap **Ethereum (ETH)**.
-8. Type **£5**, check **Pay with: GBP (or local currency) balance**, tap **Preview buy**, then **Buy now**.
+8. Type **5** in Sterling (or local currency), check **Pay with: GBP (or local currency) balance**, tap **Preview buy**, then **Buy now**.
 
 **Check before moving on**
 
-- [ ] Home or Assets shows **SOL** worth about £5 and **ETH** worth about £5.
-- [ ] Your cash balance has dropped by about £10.
+- [ ] Home or Assets shows **SOL** and **ETH**, each worth about 5 Sterling (or local currency equivalent).
+- [ ] Your cash balance has dropped by about 10 Sterling (or local currency equivalent).
 
-If Coinbase says the crypto cannot be sent yet, the pounds were probably deposited recently and are on a short hold. The app shows when they become available.
+If Coinbase says the crypto cannot be sent yet, the Sterling (or local currency) was probably deposited recently and is on a short hold. The app shows when it becomes available.
 
 ## Part A — Transaction 1 of 3: Send $5 of SOL
 
@@ -218,7 +218,7 @@ Notes:
 
 If Trust Wallet says *insufficient balance for fee* or similar:
 
-1. In Coinbase, buy about **£5 of ETH or SOL**, whichever you're short of. Same steps as **Step 0**.
+1. In Coinbase, buy about **5 Sterling (or local currency equivalent) of ETH or SOL**, whichever you're short of. Same steps as **Step 0**.
 2. Send it to Trust Wallet exactly as in **Part A** (SOL) or **Part B** (ETH). Tap **Max**, **NOT Base**.
 3. Wait until it shows in Trust Wallet, then go back to where you stopped.
 
@@ -259,7 +259,7 @@ Coinbase often puts **Base** first or labels it free. **For this whole transfer,
 **Buy the USDT in Coinbase**
 
 1. Tap **Buy** (the **+** button), search **Tether**, tap **Tether (USDT)**.
-2. Enter the amount in pounds. Check **Pay with: GBP (or local currency) balance**.
+2. Enter the amount in Sterling (or local currency). Check **Pay with: GBP (or local currency) balance**.
 3. **Preview buy**, check, **Buy now**.
 
 **Move it to Trust Wallet**
