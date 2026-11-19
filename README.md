@@ -56,7 +56,7 @@ The SOL and ETH aren't just practice: they become the fee money ("gas") that Tra
 
 **Six rules that make this bulletproof**
 
-1. **Copy, never type.** Take each address from Trust Wallet's Receive screen with the Copy button. Never use an address sent to you in a message, email or chat.
+1. **Copy, never type.** For your own wallet, take each address from Trust Wallet's Receive screen with the Copy button. Never use an address that someone sends you claiming it is yours. The only address you ever accept from another person is the recipient's, in Transaction 3, and it gets extra checks in Part C before anything is sent.
 2. **Match the network.** SOL goes on the **Solana** network. ETH goes on the **Ethereum** network. USDT goes on the network your recipient names, and **never Base**. A wrong network can lose the funds.
 3. **Check the ends.** After pasting into Coinbase, compare the first 4 and last 4 characters with Trust Wallet. If any differ, stop: your clipboard may have been tampered with.
 4. **Never share your 12-word phrase.** Coinbase, Trust Wallet and their support staff never ask for it. If someone else told you to make this transfer, stop and talk to someone you trust first.
