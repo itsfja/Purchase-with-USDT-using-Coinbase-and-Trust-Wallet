@@ -228,7 +228,9 @@ Does the road they named match the address? If it does not match, **do not send.
 
 Buy your USDT in the Coinbase shop. Send it to your purse on the right road. **Not Base.** Wait until it arrives.
 
-Then, from your purse, send the person **a little bit first**. About $5 or $10.
+Then, **from your purse**, send the person **a little bit first**. About $5 or $10.
+
+**Never pay anyone straight from the Coinbase shop.** The shop is only for buying coins and sending them to your own purse. You always pay people from your purse, because only you hold its key.
 
 Wait for them to say **"Got it!"**
 
@@ -255,6 +257,7 @@ If someone you do not know offers to get your coins back for a fee, **they are a
 - Copy addresses. Never type them.
 - Check the first four and the last four.
 - Choose the right road. Never Base.
+- Pay from your purse. Never pay from the shop.
 - Send a little bit first.
 - Stop and wait after every journey.
 
