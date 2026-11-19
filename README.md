@@ -43,7 +43,7 @@ You will make **three transactions**, one coin at a time, each followed by a pau
 
 1. **Transaction 1 of 3: about $5 of SOL** from Coinbase to Trust Wallet (Part A). This is your first test.
 2. **Transaction 2 of 3: about $5 of ETH** from Coinbase to Trust Wallet (Part B). This is your second test.
-3. **Transaction 3 of 3: USDT** to your recipient (Part C). This is the real one. It moves in stages: Coinbase to your Trust Wallet, a small test to the recipient, then the rest.
+3. **Transaction 3 of 3: USDT** to your recipient (Part C). This is the real one. It moves in stages, each with a ~$5 test first: a test to your own Trust Wallet, then the rest; then a test to the recipient, then the rest.
 
 The SOL and ETH aren't just practice: they become the fee money ("gas") that Transaction 3 needs. Every address is copied from Trust Wallet's own Receive screen (or, for Transaction 3, from the recipient) and pasted, never typed. Button names below match the apps as of November 2026. If a label differs slightly after an update, pick the closest match.
 
@@ -54,7 +54,7 @@ The SOL and ETH aren't just practice: they become the fee money ("gas") that Tra
 - [ ] Trust Wallet app updated, a wallet created, and its 12-word Secret Phrase written on paper and stored offline.
 - [ ] Solana and Ethereum visible on the Trust Wallet home screen. If either is missing, use the search or Manage crypto option on the home screen to switch it on.
 
-**Six rules that make this bulletproof**
+**Seven rules that make this bulletproof**
 
 1. **Copy, never type.** For your own wallet, take each address from Trust Wallet's Receive screen with the Copy button. Never use an address that someone sends you claiming it is yours. The only address you ever accept from another person is the recipient's, in Transaction 3, and it gets extra checks in Part C before anything is sent.
 2. **Match the network.** SOL goes on the **Solana** network. ETH goes on the **Ethereum** network. USDT goes on the network your recipient names, and **never Base**. A wrong network can lose the funds.
@@ -62,6 +62,7 @@ The SOL and ETH aren't just practice: they become the fee money ("gas") that Tra
 4. **Never share your 12-word phrase.** Coinbase, Trust Wallet and their support staff never ask for it. If someone else told you to make this transfer, stop and talk to someone you trust first.
 5. **Sends cannot be reversed.** That is why the three transactions go in order, smallest and safest first, with a big pause after each one.
 6. **Never pay a vendor from an exchange.** Coinbase is only for buying coins and moving them to *your own* Trust Wallet. Every payment to anyone else goes from Trust Wallet, your private wallet. Never paste a recipient's address into Coinbase.
+7. **Test first, then the Full Monty.** Before committing any larger amount, send a test of about $5. Wait until you have *seen* it arrive (in your own wallet) or the recipient has *confirmed* it in writing. Only then send the rest.
 
 **Why not use Trust Wallet's "Deposit from exchange" button?**
 
@@ -190,7 +191,7 @@ The same eight screens as Part A. The only changes are the coin (ETH), the netwo
 
 ## Part C — Transaction 3 of 3: The real one, USDT to your recipient
 
-**TL;DR:** Get the recipient's network and address. Check they match. Buy USDT. Move it to Trust Wallet on that network (**NOT Base**). Send the recipient a small test **from Trust Wallet**. They confirm. Send the rest.
+**TL;DR:** Get the recipient's network and address. Check they match. Buy USDT. Move a ~$5 test to Trust Wallet on that network (**NOT Base**), watch it arrive, then move the rest. Send the recipient a ~$5 test **from Trust Wallet**. They confirm. Send the rest.
 
 > [!IMPORTANT]
 > **Never pay the recipient straight from Coinbase. Always pay from Trust Wallet, your private wallet.**
@@ -282,23 +283,29 @@ Coinbase often puts **Base** first or labels it free. **For this whole transfer,
 5. Tap **Copy**. Note the first 4 and last 4 characters.
 6. In **Coinbase**: **Transfer** → **Send crypto** → **Tether (USDT)**.
 7. Network: the **recipient's network**. **NOT Base.**
-8. Paste **your own Trust Wallet address**, never the recipient's. Check the ends, answer the owner question (your own wallet, Trust Wallet), tap **Max**.
-9. **Preview**: USDT, the right network (**NOT Base**), address ends, fee. Then **Send now**.
-10. **Pause** until the USDT shows in Trust Wallet on that network.
+8. Paste **your own Trust Wallet address**, never the recipient's. Check the ends, answer the owner question (your own wallet, Trust Wallet).
+9. Amount: a **test of about $5**. Not the full amount yet.
+10. **Preview**: USDT, the right network (**NOT Base**), address ends, fee. Then **Send now**.
+11. **Watch for confirmation.** Wait until Coinbase shows the send as **Completed** *and* the USDT appears in Trust Wallet on that network.
+12. Only then repeat steps 6–10 with **Max** for the rest, and watch for confirmation again.
+
+On Ethereum, each send from Coinbase has its own network fee, so the test costs a little extra. It's worth it.
 
 **Send the test to the recipient (from Trust Wallet, never from Coinbase)**
 
-11. In Trust Wallet, tap **USDT** (the right network) → **Send**.
-12. Paste the recipient's address. Check the first 4 and last 4 against what they sent you.
-13. Amount: a **test of about $5–10**.
-14. Trust Wallet shows the fee in ETH or SOL. If it says you don't have enough, follow **Topping up your fee money** near the top of Part C, then come back to this step.
-15. **Confirm**. Message the recipient: "Test sent, please confirm you got it."
+13. In Trust Wallet, tap **USDT** (the right network) → **Send**.
+14. Paste the recipient's address. Check the first 4 and last 4 against what they sent you.
+15. Amount: a **test of about $5**.
+16. Trust Wallet shows the fee in ETH or SOL. If it says you don't have enough, follow **Topping up your fee money** near the top of Part C, then come back to this step.
+17. **Confirm**. In Trust Wallet, tap the send in your USDT history and wait until it shows as **Completed** (or confirmed).
+18. Message the recipient: "Test sent, please confirm you got it." **Wait for their written confirmation.**
 
-**Send the rest**
+**Send the rest (the Full Monty)**
 
-16. Only after they confirm, repeat steps 11–15 with the remaining amount. Tap **Max** if they're getting all of it. A little ETH or SOL stays behind for the fee. If the fee check fails here, top up first (see **Topping up your fee money**).
+19. Only after they confirm, repeat steps 13–17 with the remaining amount. Tap **Max** if they're getting all of it. A little ETH or SOL stays behind for the fee. If the fee check fails here, top up first (see **Topping up your fee money**).
+20. Ask the recipient to confirm this one too, and keep their confirmation.
 
-**If the recipient wants Tron:** stop at step 2 and ask them for Ethereum or Solana instead. We're deliberately not adding TRX to the mix:
+**If the recipient wants Tron:** stop at section 2 (working out the network) and ask them for Ethereum or Solana instead. We're deliberately not adding TRX to the mix:
 
 - **Coinbase doesn't sell TRX [7]**, so you can't get fee money for Tron the way you did for SOL and ETH.
 - **Coinbase can't send USDT on Tron either [8].** Getting USDT onto Tron would mean an extra swap inside Trust Wallet, which is one more place for things to go wrong.
